@@ -9,8 +9,8 @@
 - ⚡ Hobbies: I love to listen songs and play games
 
 
-[![website](./img/medium.svg)](https://medium.com/@Sirilux#gh-light-mode-only)
-[![website](./img/medium.svg)](	https://medium.com/@Sirilux#gh-dark-mode-only)
+[![website](./img/medium-light.svg)](https://medium.com/@Sirilux#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](	https://medium.com/@Sirilux#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
