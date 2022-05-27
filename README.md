@@ -55,5 +55,5 @@ You can click the Preview link to take a look at your changes.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [TEST](https://dev.to/sirilux/test-1hi8)
 <!-- BLOG-POST-LIST:END -->
