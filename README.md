@@ -5,21 +5,21 @@
 
 - 👀 I’m interested in Blockchain, Web3, Smart Contract Security
 - 🌱 I’m currently learning everything😁
-- 🥅 2022 Goals: Build & Showcase my portfolio about my technical skills
+- 🥅 2022 Goals: Build & Showcase portfolio about my technical skills
 - ⚡ Hobbies: I love to listen songs and play games
 
 
 [![website](./img/medium-light.svg)](https://medium.com/@Sirilux#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](	https://medium.com/@Sirilux#gh-dark-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@Sirilux#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AadityaChandan1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AadityaChandan1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sirilux#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sirilux#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_i_am_not_aditya#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_i_am_not_aditya#gh-dark-mode-only)
 
 
 <!---
