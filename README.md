@@ -10,17 +10,17 @@
 
 ### Connect with me:
 
-[![website](./img/medium-light.svg)](https://medium.com/@Sirilux)
-[![website](./img/medium-dark.svg)](https://medium.com/@Sirilux)
+[![website](./img/medium-light.svg)](https://medium.com/@Sirilux#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](https://medium.com/@Sirilux#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AadityaChandan1)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AadityaChandan1)
+[![website](./img/twitter-light.svg)](https://twitter.com/AadityaChandan1#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AadityaChandan1#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sirilux)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sirilux)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sirilux#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sirilux#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_i_am_not_aditya)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_i_am_not_aditya)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/_i_am_not_aditya#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/_i_am_not_aditya#gh-dark-mode-only)
 
 
 <!---
