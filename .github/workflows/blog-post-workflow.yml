@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://feed.informer.com/digests/ZQ4CNXKFKM/feeder.rss"
+          feed_list: "https://medium.com/feed/@sirilux"
