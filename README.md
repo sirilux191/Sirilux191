@@ -60,7 +60,9 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
+  <!--RECENT_ACTIVITY:start-->
+
+  <!--RECENT_ACTIVITY:last_update-->
 </details>
   
 <details>
