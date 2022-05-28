@@ -64,17 +64,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-
 1. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 2. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 4. ⭐ Starred [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 5. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-  
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 28th, 2022, 5:16:52 AM
+Last Updated: Saturday, May 28th, 2022, 6:46:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
