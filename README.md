@@ -59,8 +59,8 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--RECENT_ACTIVITY:start-->
+<summary>:zap: Recent GitHub Activity</summary>
+<!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 2. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
