@@ -1,5 +1,6 @@
 # Hi there, I'm Aaditya - aka [Sirilux] 👋
 
+
 ## I'm a Developer, Gamer, Runner, and Trader(Gambler😅)!!
 
 
@@ -58,24 +59,29 @@ You can click the Preview link to take a look at your changes.
 - [TEST](https://dev.to/sirilux/test-1hi8)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
+ --- 
+  
 <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--RECENT_ACTIVITY:start-->
+
 1. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 2. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 4. ⭐ Starred [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
 5. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+  
 <!--RECENT_ACTIVITY:end-->
 
-  <!--RECENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, May 28th, 2022, 5:16:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-</details>
-  
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+
+<summary>:zap: GitHub Stats</summary>
   
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi191&theme=radical&show_icons=true)
-</details>
 
+  
+![twitter logo](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAadityaChandan1)
