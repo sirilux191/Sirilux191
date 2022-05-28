@@ -72,7 +72,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 28th, 2022, 9:21:50 AM
+Last Updated: Saturday, May 28th, 2022, 8:29:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
@@ -83,7 +83,7 @@ Last Updated: Saturday, May 28th, 2022, 9:21:50 AM
   
 <br>
   
-![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi191&theme=radical&show_icons=true)
+![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirilux191&theme=radical&show_icons=true)
   
   
 --- 
