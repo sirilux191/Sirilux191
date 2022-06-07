@@ -64,15 +64,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mishra28soumya/Analog-Clock](https://github.com/mishra28soumya/Analog-Clock)
-2. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-3. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
-4. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-5. ⭐ Starred [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+1. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+2. ⭐ Starred [mishra28soumya/Analog-Clock](https://github.com/mishra28soumya/Analog-Clock)
+3. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+4. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
+5. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 4:31:42 AM
+Last Updated: Tuesday, June 7th, 2022, 5:18:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
