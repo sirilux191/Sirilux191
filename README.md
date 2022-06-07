@@ -64,15 +64,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
-2. ⭐ Starred [mishra28soumya/Analog-Clock](https://github.com/mishra28soumya/Analog-Clock)
-3. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
-4. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
-5. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+1. 📔 Created new repository [sirilux191/Solidity-Smart-Contracts](https://github.com/sirilux191/Solidity-Smart-Contracts)
+2. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+3. ⭐ Starred [mishra28soumya/Analog-Clock](https://github.com/mishra28soumya/Analog-Clock)
+4. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+5. ⭐ Starred [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 7th, 2022, 5:25:44 PM
+Last Updated: Tuesday, June 7th, 2022, 6:25:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
