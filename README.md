@@ -68,11 +68,10 @@
 2. 📔 Created new repository [sirilux191/Solidity-Smart-Contracts](https://github.com/sirilux191/Solidity-Smart-Contracts)
 3. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 4. ⭐ Starred [mishra28soumya/Analog-Clock](https://github.com/mishra28soumya/Analog-Clock)
-5. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 28th, 2022, 11:22:21 PM
+Last Updated: Monday, August 29th, 2022, 2:34:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
