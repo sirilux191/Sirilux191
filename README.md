@@ -65,12 +65,10 @@
   
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [sirilux191/Smart_Contracts](https://github.com/sirilux191/Smart_Contracts)
-2. 📔 Created new repository [sirilux191/Solidity-Smart-Contracts](https://github.com/sirilux191/Solidity-Smart-Contracts)
-3. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 7th, 2022, 11:29:12 PM
+Last Updated: Thursday, September 8th, 2022, 2:36:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
