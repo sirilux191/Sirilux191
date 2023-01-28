@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Blockchain, Web3, Smart Contract Security
 - 🌱 I’m currently learning everything😄
-- 🥅 2022 Goals: Build & Showcase portfolio about my technical skills
+- 🥅 2023 Goals: Build & Showcase portfolio about my technical skills
 - ⚡ Hobbies: I love to listen songs and play games
 
 ### 💬 Connect with me:
