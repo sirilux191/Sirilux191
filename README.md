@@ -52,7 +52,11 @@
   
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TEST](https://dev.to/sirilux/test-1hi8)
+- [Toy Story: Uncovering Timeless Lessons for a Better Life, Toy Story 5 Announcement 2023](https://sirilux.in/toy-story-5-announcement-2023-release/)
+- [Recession Ready: Financial Planning Tips for Weathering the Economic Downturn in 2023](https://sirilux.in/tips-for-withstanding-upcoming-recession/)
+- [AI Job Revolution: Navigating the Changing Landscape of Work in the Artificial Intelligence Era](https://sirilux.in/ai-job-revolution-navigating-the-changing-landscape-of-work-in-the-artificial-intelligence-era/)
+- [AI and Blockchain: Exploring the Top 5 Cutting-Edge Cryptocurrency Projects Shaping the Future](https://sirilux.in/ai-blockchain-crypto-top-projects-to-watch/)
+- [The Road to an Electric Future in next 10 years: How and When Will Electric Vehicles Replace Gasoline Cars?](https://sirilux.in/electric-vehicle-the-future-is-here/)
 <!-- BLOG-POST-LIST:END -->
 
 
