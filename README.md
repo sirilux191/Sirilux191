@@ -52,11 +52,11 @@
   
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mahashivratri Celebration: 7 Secrets to Enhance Your Personal Growth and Spiritual Enlightenment in 2023](https://sirilux.in/mahashivratri-significance-personal-growth/)
 - [HAARP Technology: Debunking the Myths Surrounding the Recent Turkey-Syria Earthquake in 2023](https://sirilux.in/haarp-technology-and-the-turkey-syria-earthquake-myths-and-facts/)
 - [Valentine’s Love Story: A Journey Through the Seven Days of Romance in 2023](https://sirilux.in/valentines-love-story-7-days-of-romance/)
 - [Toy Story: Uncovering Timeless Lessons for a Better Life, Toy Story 5 Announcement 2023](https://sirilux.in/toy-story-5-announcement-2023-release/)
 - [Recession Ready: Financial Planning Tips for Weathering the Economic Downturn in 2023](https://sirilux.in/tips-for-withstanding-upcoming-recession/)
-- [AI Job Revolution: Navigating the Changing Landscape of Work in the Artificial Intelligence Era](https://sirilux.in/ai-job-revolution-navigating-the-changing-landscape-of-work-in-the-artificial-intelligence-era/)
 <!-- BLOG-POST-LIST:END -->
 
 
