@@ -68,11 +68,12 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/Javascript](https://github.com/sirilux191/Javascript)
+1. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
+2. 📔 Created new repository [sirilux191/Javascript](https://github.com/sirilux191/Javascript)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 8th, 2023, 9:19:37 AM
+Last Updated: Wednesday, March 8th, 2023, 10:22:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
