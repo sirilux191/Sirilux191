@@ -68,11 +68,12 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
+1. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
+2. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 22nd, 2023, 4:22:08 PM
+Last Updated: Monday, May 22nd, 2023, 5:14:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
