@@ -68,12 +68,13 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
-2. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
+1. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
+2. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
+3. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 3rd, 2023, 10:16:41 AM
+Last Updated: Saturday, June 3rd, 2023, 11:13:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
