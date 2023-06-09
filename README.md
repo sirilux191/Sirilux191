@@ -71,11 +71,10 @@
 1. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
 2. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
 3. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
-4. 📔 Created new repository [sirilux191/Almabetter-Project](https://github.com/sirilux191/Almabetter-Project)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 8th, 2023, 11:17:12 PM
+Last Updated: Friday, June 9th, 2023, 1:49:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
