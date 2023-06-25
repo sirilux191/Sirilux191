@@ -68,13 +68,14 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
+1. ⭐ Starred [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts)
 2. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
-3. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
+3. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
+4. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 25th, 2023, 1:24:31 PM
+Last Updated: Sunday, June 25th, 2023, 2:16:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
