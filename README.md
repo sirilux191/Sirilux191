@@ -68,15 +68,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/Web-Development-Projects](https://github.com/sirilux191/Web-Development-Projects)
-2. ⭐ Starred [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts)
-3. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
+1. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-AVAX-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-AVAX-PROOF-Intermediate-EVM-Course)
+2. 📔 Created new repository [sirilux191/Web-Development-Projects](https://github.com/sirilux191/Web-Development-Projects)
+3. ⭐ Starred [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts)
 4. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
-5. 📔 Created new repository [sirilux191/METACRAFTERS-ACADEMY-COURSE](https://github.com/sirilux191/METACRAFTERS-ACADEMY-COURSE)
+5. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-PROOF-Intermediate-EVM-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 14th, 2023, 10:20:01 AM
+Last Updated: Friday, July 14th, 2023, 11:15:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
