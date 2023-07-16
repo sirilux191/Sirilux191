@@ -10,8 +10,8 @@
 
 ### 💬 Connect with me:
 
-[![website](./img/medium-light.svg)](https://medium.com/@Sirilux#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](https://medium.com/@Sirilux#gh-dark-mode-only)
+[![website](./img/medium-light.svg)](https://sirilux.in/)
+[![website](./img/medium-dark.svg)](https://sirilux.in/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AadityaChandan1#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AadityaChandan1#gh-dark-mode-only)
@@ -42,8 +42,6 @@
 &nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  
 <br>
 
   
