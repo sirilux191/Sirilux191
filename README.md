@@ -10,8 +10,8 @@
 
 ### 💬 Connect with me:
 
-[![website](./img/medium-light.svg)](https://sirilux.in/)
-[![website](./img/medium-dark.svg)](https://sirilux.in/)
+[![website](./img/medium-light.svg)](https://sirilux.in#gh-light-mode-only)
+[![website](./img/medium-dark.svg)](https://sirilux.in#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AadityaChandan1#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AadityaChandan1#gh-dark-mode-only)
