@@ -88,14 +88,6 @@ Last Updated: Wednesday, July 19th, 2023, 2:52:21 AM
 ![Aaditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirilux191&theme=radical&show_icons=true)
   
   
---- 
-
-  
-<summary>:zap: Visitor Count</summary>
-  
-<br>
-  
-![Visitor Count](https://profile-counter.glitch.me/{Aadi191}/count.svg)
-  
+---   
   
 <!And its done>
