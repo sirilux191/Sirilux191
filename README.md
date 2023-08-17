@@ -68,13 +68,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
 2. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
-3. 📔 Created new repository [sirilux191/Motoko-Bootcamp](https://github.com/sirilux191/Motoko-Bootcamp)
-4. 📔 Created new repository [sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course](https://github.com/sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course)
-5. 📔 Created new repository [sirilux191/METACRAFTERS-ETH-AVAX-PROOF-Intermediate-EVM-Course](https://github.com/sirilux191/METACRAFTERS-ETH-AVAX-PROOF-Intermediate-EVM-Course)
+3. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
+4. 📔 Created new repository [sirilux191/Motoko-Bootcamp](https://github.com/sirilux191/Motoko-Bootcamp)
+5. 📔 Created new repository [sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course](https://github.com/sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 11:13:10 AM
+Last Updated: Thursday, August 17th, 2023, 12:30:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
