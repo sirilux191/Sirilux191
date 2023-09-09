@@ -66,15 +66,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
-2. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
+1. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
+2. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
 3. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
-4. 📔 Created new repository [sirilux191/Motoko-Bootcamp](https://github.com/sirilux191/Motoko-Bootcamp)
-5. 📔 Created new repository [sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course](https://github.com/sirilux191/METACRAFTERS-AVAX-PROOF-Advanced-Avalanche-Course)
+4. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
+5. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 1:16:47 PM
+Last Updated: Saturday, September 9th, 2023, 2:13:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
