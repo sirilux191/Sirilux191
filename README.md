@@ -66,15 +66,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
+1. 📔 Created new repository [sirilux191/Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Personal-Finance-Tracker-DAPP-On-ICP)
 2. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
-3. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
+3. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
 4. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
 5. 📔 Created new repository [sirilux191/Internet-Computer-Projects](https://github.com/sirilux191/Internet-Computer-Projects)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 31st, 2023, 12:32:44 PM
+Last Updated: Tuesday, October 31st, 2023, 1:19:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
