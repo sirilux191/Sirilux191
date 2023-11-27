@@ -66,15 +66,15 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course](https://github.com/sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course)
-2. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP)
-3. 📔 Created new repository [sirilux191/Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Personal-Finance-Tracker-DAPP-On-ICP)
-4. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
+1. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Manager-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Manager-DAPP-On-ICP)
+2. 📔 Created new repository [sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course](https://github.com/sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course)
+3. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP)
+4. 📔 Created new repository [sirilux191/Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Personal-Finance-Tracker-DAPP-On-ICP)
 5. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 27th, 2023, 11:14:44 AM
+Last Updated: Monday, November 27th, 2023, 12:34:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
