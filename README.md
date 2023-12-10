@@ -70,11 +70,10 @@
 2. 📔 Created new repository [sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course](https://github.com/sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course)
 3. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP)
 4. 📔 Created new repository [sirilux191/Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Personal-Finance-Tracker-DAPP-On-ICP)
-5. 📔 Created new repository [sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course](https://github.com/sirilux191/METACRAFTERS-POLY-PROOF-Advanced-Course)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 1:22:26 AM
+Last Updated: Sunday, December 10th, 2023, 2:30:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
