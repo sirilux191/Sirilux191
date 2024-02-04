@@ -69,11 +69,10 @@
 1. ⭐ Starred [motoko-unofficial/awesome-motoko](https://github.com/motoko-unofficial/awesome-motoko)
 2. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Manager-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Manager-DAPP-On-ICP)
 3. 📔 Created new repository [sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course](https://github.com/sirilux191/METACRAFTERS-FLOW-PROOF-Beginner-Course)
-4. 📔 Created new repository [sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP](https://github.com/sirilux191/Simple-Personal-Finance-Tracker-DAPP-On-ICP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 4th, 2024, 3:17:58 AM
+Last Updated: Sunday, February 4th, 2024, 4:18:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
