@@ -66,11 +66,10 @@
 <br>
   
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [motoko-unofficial/awesome-motoko](https://github.com/motoko-unofficial/awesome-motoko)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 16th, 2024, 5:17:04 AM
+Last Updated: Tuesday, April 16th, 2024, 6:22:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
   
